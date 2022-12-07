@@ -1,6 +1,21 @@
 # Cola Discord Nuker
-> Fully written in Python &amp; 100% Opensource! Releasing soon!
+ - [x] Opensource
+ - [x] Update InApp-Notification
+ - [x] Only using Python & VBS
+ - [x] 15 finished tools
+> - [x] Mass Block
+> - [x] Mass DM
+> - [x] Spam Messages
+> - [x] Change PFP
+> - [x] Get Token Info
+> - [x] Spam Webhooks
+> - [ ] Spam Reactions (Not Working)
+> - [x] Spam Channels
+> - [x] Spam Create Servers
+> - [x] Get Devices (including IP, Location, ...)
+> - [x] Auto Token Login
+> - [x] Spam Status
+> - [x] Spam Settings (Lightmode, Language, Text)
+> - [ ] Disable Friendrequests (Not working)
+> - [ ] Disable DMs (Not working)
 
-<p align="center"><img src="https://blizz.cf/tools/colanuker/githubasset/prew__001.png" alt="e" width="400"/><br><small>FREE<br>OPENSOURCE<br>CLEAN UI</small></p><br>
-<p align="center"><img src="https://blizz.cf/tools/colanuker/githubasset/prew__002.png" alt="e" width="400"/><br><small>MANY FUNCTIONS<br>100% PYTHON<br>CONFIGURABLE</small></p><br>
-<p align="center"><img src="https://blizz.cf/tools/colanuker/githubasset/prew__003.png" alt="e" width="400"/><br><small><b>COMING SOON</b></small></p><br>
