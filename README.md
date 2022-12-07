@@ -5,7 +5,7 @@
  - [x] 15 finished tools
 > - [x] Mass Block
 > - [x] Mass DM
-> - [x] Spam Messages
+> - [x] Spam Messages ![alt text](readme_src\prew__001.png)
 > - [x] Change PFP
 > - [x] Get Token Info
 > - [x] Spam Webhooks
