@@ -1,5 +1,5 @@
 # Cola Discord Nuker
-
+## Releasing soon!
 <p align="center"><img src="https://blizz.cf/tools/colanuker/githubasset/prew__001.png" width="500" height="300"/></p>
 <p float="left">
   <p align="center">
