@@ -1,5 +1,5 @@
 # Cola Discord Nuker
-## 1.0.0
+## 1.0.1
 <p align="center"><img src="https://blizz.cf/tools/colanuker/githubasset/prew__001.png" width="500" height="300"/></p>
 <p float="left">
   <p align="center">
