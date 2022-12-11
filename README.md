@@ -1,5 +1,5 @@
 # Cola Discord Nuker
-> Current Version: 1.0.2
+> Current Version: 1.0.2 (Windows Only)
 <p float="left">
   <p align="center">
   <img src="https://blizz.cf/tools/colanuker/githubasset/prew__001.png" width="300" height="200"/>
@@ -8,6 +8,10 @@
 </p>
 
 <h2 align="center"><a href="https://github.com/LuyaTools/cola-discord-nuker/blob/main/updates.md">View Changelogs/Patchnotes</a></h2>
+<br>
+<h3 align="left">Requirements</h3>
+> Python 3.9+
+> setup.bat (in folder)
 <br>
 <h3 align="left">Content</h3>
 
