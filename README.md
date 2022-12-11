@@ -7,6 +7,10 @@
   </p>
 </p>
 
+<h2 align="center"><a href="https://github.com/LuyaTools/cola-discord-nuker/blob/main/updates.md">View Changelogs/Patchnotes</a></h2>
+<br>
+<h3 align="left">Content</h3>
+
  - [x] Opensource
  - [x] Update InApp-Notification
  - [x] Only using Python & VBS
