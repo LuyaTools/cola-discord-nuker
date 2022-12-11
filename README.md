@@ -10,8 +10,9 @@
 <h2 align="center"><a href="https://github.com/LuyaTools/cola-discord-nuker/blob/main/updates.md">View Changelogs/Patchnotes</a></h2>
 <br>
 <h3 align="left">Requirements</h3>
-> Python 3.9+
-> setup.bat (in folder)
+
+> Python 3.9+ 
+
 <br>
 <h3 align="left">Content</h3>
 
