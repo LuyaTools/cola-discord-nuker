@@ -7,6 +7,7 @@ Update <i>1.0.2 (Patch 0.2)</i> (13.December.2022)</code><br>
 - PIL Error Fixed
 </small>
 
+<br>
 
 <code>
 Update <i>1.0.2</i> (11.December.2022)</code><br>
