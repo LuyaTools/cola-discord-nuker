@@ -4,10 +4,10 @@
 Update <i>1.0.3</i> (13.December.2022)</code><br>
 
 <small>
-- Nitro Generator Added
-- Webhook Deleter Added
-- PIL Panel Error fixed
-- TokenGrabber-Builder (Beta) removed for now!
+- Nitro Generator Added<br>
+- Webhook Deleter Added<br>
+- PIL Panel Error fixed<br>
+- TokenGrabber-Builder (Beta) removed for now!<br>
 </small>
 
 <br><br>
