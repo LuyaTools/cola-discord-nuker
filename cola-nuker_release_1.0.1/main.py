@@ -184,7 +184,6 @@ def home():
     app.withdraw()
     app2.iconbitmap("app\icon.ico")
     clear()
-    panel.place(relx=0.15, rely=0.1, anchor=tkinter.CENTER)
     bel2 = customtkinter.CTkLabel(master=app2, text="COLA NUKER", text_color="#ff0000", font=('Calibri', 20))
     bel2.place(relx=0.5, rely=0.1, anchor=tkinter.CENTER)
     bel3 = customtkinter.CTkLabel(master=app2, text="https://blizz.cf/\nhttps://github.com/LuyaTools\nhttps://t.me/bladetools", text_color="#ffffff", font=('Calibri', 15))
