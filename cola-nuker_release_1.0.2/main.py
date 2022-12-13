@@ -524,7 +524,7 @@ fxc = requests.get(uun)
 fxct = fxc.text
 ver = "1.0.2"
 
-logo = Image.open("app\logo.png")
+
 
 os.system("cls")
 f = open(r"app\\text.txt", "r")
