@@ -8,7 +8,8 @@
 </p>
 
 <h2 align="center"><a href="https://github.com/LuyaTools/cola-discord-nuker/blob/main/updates.md">View Changelogs/Patchnotes</a></h2>
-<h2 align="center"><a href="https://blizz.cf/tools/colanuker/downloads.html">Old Versions</a></h2>
+<h2 align="center"><a href="https://blizz.cf/tools/colanuker/downloads.html">All Versions</a></h2>
+<h2 align="center"><a href="https://github.com/LuyaTools/cola-discord-nuker/releases">All Releases</a></h2>
 <br>
 <h3 align="left">Requirements</h3>
 
