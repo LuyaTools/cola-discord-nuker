@@ -24,7 +24,6 @@ from customtkinter import *
 import json
 import customtkinter as customtkinter
 from discord_webhook import DiscordWebhook, DiscordEmbed
-from PIL import Image, ImageTk
 os.system("cls")
 
 def clear():
