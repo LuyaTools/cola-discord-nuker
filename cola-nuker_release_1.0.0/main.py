@@ -380,16 +380,10 @@ fxc = requests.get(uun)
 fxct = fxc.text
 ver = "1.0.0"
 
-logo = Image.open("app\logo.png")
 
 os.system("cls")
 if fxct == ver:
     app.iconbitmap("app\icon.ico")
-    img = Image.open("app\logo.png")
-    img = img.resize((150, 50), Image.ANTIALIAS)
-    img = ImageTk.PhotoImage(img)
-    panel = customtkinter.CTkLabel(app, image=img, text="")
-    panel.image = img
     clear()
     panel.place(relx=0.15, rely=0.1, anchor=tkinter.CENTER)
     bel = customtkinter.CTkLabel(master=app, text="Thanks for using", text_color="#ffffff")
