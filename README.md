@@ -19,10 +19,10 @@
  - [x] Opensource
  - [x] Update InApp-Notification
  - [x] Only using Python & VBS
-> - [ ] Mass Block
+> - [x] Nitro Generator
 > - [x] Mass DM
 > - [x] Spam Messages          
-> - [ ] Change PFP
+> - [x] Webhook Deleter
 > - [x] Get Token Info
 > - [x] Spam Webhooks
 > - [ ] Spam Reactions
@@ -32,6 +32,6 @@
 > - [x] TOKEN BRUTEFORCER
 > - [ ] Spam Status
 > - [ ] Spam Settings (Lightmode, Language, Text)
-> - [ ] Disable Friendrequests
+> - [ ] Token Grabber
 > - [ ] Disable DMs
 
