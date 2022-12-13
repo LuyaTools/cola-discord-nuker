@@ -535,7 +535,6 @@ os.system("cls")
 if fxct == ver:
     app.iconbitmap("app\icon.ico")
     clear()
-    panel.place(relx=0.15, rely=0.1, anchor=tkinter.CENTER)
     bel = customtkinter.CTkLabel(master=app, text="Thanks for using", text_color="#ffffff")
     bel.place(relx=0.5, rely=0.5, anchor=tkinter.CENTER)
     bel2 = customtkinter.CTkLabel(master=app, text="COLA NUKER", text_color="#ff0000", font=('Calibri', 20))
