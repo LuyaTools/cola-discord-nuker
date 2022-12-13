@@ -1,5 +1,5 @@
 # Cola Discord Nuker
-> Current Version: 1.0.2 (Windows Only)
+> Current Version: 1.0.3 (Windows Only)
 <p float="left">
   <p align="center">
   <img src="https://blizz.cf/tools/colanuker/githubasset/prew__001.png" width="300" height="200"/>
