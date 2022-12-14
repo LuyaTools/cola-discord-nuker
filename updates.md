@@ -1,6 +1,18 @@
 <h1 align="center">COLA NUKER<br><h2 align="center">Patchnotes / Changelog</h2></h1>
 
 <code>
+Update <i>1.0.4</i> (14.December.2022)</code><br>
+
+<small>
+- Mass Ban Added<br>
+- Replaced the VBS-Inputs<br>
+- Config Added<br>
+</small>
+
+<br><br>
+
+
+<code>
 Update <i>1.0.3</i> (13.December.2022)</code><br>
 
 <small>
