@@ -1,5 +1,5 @@
 # Cola Discord Nuker
-> Current Version: 1.0.3 (Windows Only)
+> Current Version: 1.0.4 (Windows Only)
 <p float="left">
   <p align="center">
   <img src="https://blizz.cf/tools/colanuker/githubasset/prew__001.png" width="300" height="200"/>
@@ -27,7 +27,7 @@
 > - [x] Webhook Deleter
 > - [x] Get Token Info
 > - [x] Spam Webhooks
-> - [ ] Spam Reactions
+> - [x] Mass Ban
 > - [x] Spam Channels
 > - [ ] Spam Create Servers
 > - [x] Python Obfuscator (Walls + Crypt)
