@@ -14,6 +14,9 @@
 <h3 align="left">Requirements</h3>
 
 > Python 3.9+ 
+> Uninstalled discord.py
+> setup.bat runned
+> Windows 10/11
 
 <br>
 <h3 align="left">Content</h3>
