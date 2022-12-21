@@ -1,5 +1,5 @@
 # Cola Discord Nuker
-> Current Version: 1.0.4 (Windows Only)
+> Current Version: 1.0.5 (Windows Only)
 <p float="left">
   <p align="center">
   <img src="https://blizz.cf/tools/colanuker/githubasset/prew__001.png" width="300" height="200"/>
@@ -32,11 +32,10 @@
 > - [x] Spam Webhooks
 > - [x] Mass Ban
 > - [x] Spam Channels
-> - [ ] Spam Create Servers
+> - [x] Discord-Token-Grabber Builder
 > - [x] Python Obfuscator (Walls + Crypt)
 > - [x] TOKEN BRUTEFORCER
-> - [ ] Spam Status
-> - [ ] Spam Settings (Lightmode, Language, Text)
+> - [xSpam Settings (Currently only lang)
 > - [ ] Token Grabber
 > - [ ] Disable DMs
 
