@@ -1,6 +1,16 @@
 <h1 align="center">COLA NUKER<br><h2 align="center">Patchnotes / Changelog</h2></h1>
 
 <code>
+Update <i>1.0.5</i> (14.December.2022)</code><br>
+
+<small>
+- Token-Grabber-Builder added<br>
+- Spam Settings (currently only lang) added<br>
+</small>
+
+<br><br>
+
+<code>
 Update <i>1.0.4</i> (14.December.2022)</code><br>
 
 <small>
