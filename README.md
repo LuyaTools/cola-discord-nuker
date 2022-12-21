@@ -35,7 +35,7 @@
 > - [x] Discord-Token-Grabber Builder
 > - [x] Python Obfuscator (Walls + Crypt)
 > - [x] TOKEN BRUTEFORCER
-> - [xSpam Settings (Currently only lang)
+> - [x] Spam Settings (Currently only lang)
 > - [ ] Token Grabber
 > - [ ] Disable DMs
 
