@@ -36,6 +36,4 @@
 > - [x] Python Obfuscator (Walls + Crypt)
 > - [x] TOKEN BRUTEFORCER
 > - [x] Spam Settings (Currently only lang)
-> - [ ] Token Grabber
-> - [ ] Disable DMs
 
