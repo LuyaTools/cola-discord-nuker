@@ -35,7 +35,7 @@ def clear():
 import configparser
 
 config = configparser.ConfigParser()
-config.read_file(open(r'app\config.cfg'))
+config.read_file(open(r'app\\config.cfg'))
 path1 = config.get('app', 'mode')
 if path1 == "dark":
     customtkinter.set_appearance_mode("dark")
