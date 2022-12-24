@@ -9,5 +9,6 @@ pip install aioconsole
 pip install asyncio
 pip install sll
 pip install nextcord
+pip install configparser
 cls
 start run.bat
