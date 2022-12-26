@@ -26,7 +26,6 @@ from customtkinter import *
 import json
 import customtkinter as customtkinter
 from discord_webhook import DiscordWebhook, DiscordEmbed
-from PIL import Image, ImageTk
 now = datetime.now()
 lt = now.strftime("%H:%M:%S")
 os.system("cls")
